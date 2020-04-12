@@ -1,6 +1,6 @@
 # reactApp-hello-world
 
-1. install node version > 8, I am using node version 12 here. 
+1. install node version > 8, I am using node version v12.16.2 (/opt/node-v12.16.2-linux-x64/bin) here. 
 2. Refer the tutorial here: https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
 3. fixing the issue in this tutorial: https://github.com/babel/babel/issues/9229 
 4. [fix] Remove query node  from webpack.config.js the loader config, some you are already using babelrc. Also, those are v6 plugins.
